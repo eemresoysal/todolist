@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-image: url(https://previews.123rf.com/images/rawpixel/rawpixel1409/rawpixel140904799/31336466-multi-colored-pebbles-rocks-backgrounds-.jpg);
+  background-position: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
 }
 
 .App-logo {
@@ -32,6 +39,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
